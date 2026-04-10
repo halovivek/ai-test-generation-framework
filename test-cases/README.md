@@ -2,6 +2,21 @@
 
 An intelligent framework that generates, validates, and optimizes test cases using AI/LLMs.
 
+## 🏗️ Architecture Diagram
+
+![AI Test Generation Framework Architecture](docs/images/architecture.png)
+![Architecture](https://raw.githubusercontent.com/halovivek/ai-test-generation-framework/main/docs/images/architecture.png)
+
+## 🏗️ Architecture Diagram
+
+<p align="center">
+  <img src="docs/images/architecture.png" alt="AI Test Generation Framework Architecture" width="800"/>
+</p>
+
+<p align="center">
+  End-to-end architecture of AI-driven test generation, validation, and CI/CD integration
+</p>
+
 ### ✨ Features
 - Automated test case generation from user stories
 - AI-powered edge case detection
